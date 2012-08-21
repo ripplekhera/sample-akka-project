@@ -1,8 +1,8 @@
 sample-akka-project
 ===================
 
-Sample Akka project with Akka 2.0.1 , sbt and gen-idea plugin
-Akka 2.0.1 sample project using Scala and SBT.
+Sample Akka project with Akka 2.0.1 , sbt and gen-idea plugin.  
+Akka 2.0.1 sample project using Scala and SBT.  
 To run and test it use SBT invoke: 'sbt run'
 
 This is based on the g8 template at https://github.com/typesafehub/akka-scala-sbt.g8, with the addition of sbt-idea plugin. 
